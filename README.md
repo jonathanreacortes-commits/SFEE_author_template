@@ -54,3 +54,5 @@ Se realizaron una variedad de pruebas, los resultados son muy prometedores ya qu
 
 Se ha logrado superar los retos que implican el crear una transmisión para vehículos eléctricos con el uso de programas de simulación como ABAQUS y al uso del calculo, la cual no solo supero los objetivos planteados con facilidad y mantiendo el 94,24% de la potencia generada también mostro no perdes su seguridad estructuran al tener la posibilidad de ejercer 300Nm sin ningún tipo de fallos por lo que los vehículos que integren este sistema usaran de la manera mas eficiente su batería y no utilizaran de manera ineficiente su batería al conducir a altas velocidades.
 
+### Referencia 
+ https://www.mdpi.com/2075-1702/12/1/9
